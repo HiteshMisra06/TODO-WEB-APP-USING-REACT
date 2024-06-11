@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TODO-CRUD-USING-REACT/static/css/main.c3de25fb.css",
+    "main.js": "/TODO-CRUD-USING-REACT/static/js/main.a54c9ac3.js",
+    "index.html": "/TODO-CRUD-USING-REACT/index.html",
+    "main.c3de25fb.css.map": "/TODO-CRUD-USING-REACT/static/css/main.c3de25fb.css.map",
+    "main.a54c9ac3.js.map": "/TODO-CRUD-USING-REACT/static/js/main.a54c9ac3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3de25fb.css",
+    "static/js/main.a54c9ac3.js"
+  ]
+}
